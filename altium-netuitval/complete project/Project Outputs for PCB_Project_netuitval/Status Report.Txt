@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [netuitval.PcbDoc]
+   Generated File[netuitval.TXT]
+   Generated File[netuitval.LDP]
+   Generated File[netuitval.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:34:58 On 1/05/2021

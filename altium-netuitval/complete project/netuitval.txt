@@ -1,0 +1,5 @@
+Board Information Report
+Filename     : C:\Users\11903685\OneDrive - PXL\Bureaublad\1Pba-EA-ICT\Altium\projecten\netuitval\PCB_Project_netuitval\netuitval.PcbDoc
+Date         : 21/04/2021
+Time         : 13:51:29
+Time Elapsed : 00:00:00

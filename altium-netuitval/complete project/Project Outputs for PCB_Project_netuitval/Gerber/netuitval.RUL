@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\11903685\OneDrive - PXL\Bureaublad\1Pba-EA-ICT\Altium\nieuwe zone\wetransfer-96b02c\PCB_Project_netuitval\PCB_Project_netuitval\netuitval.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

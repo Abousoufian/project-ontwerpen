@@ -1,0 +1,2 @@
+Add Pin To Net: Pin=IC5-5 Old Net=IC5_5 New Net=IC2_6
+Add Pin To Net: Pin=LED2-1 Old Net=V+ New Net=+2V8

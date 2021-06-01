@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=K2_1 Pin=K2-1
+Removed Pin From Net: NetName=K2_2 Pin=K2-2
+Change Component Designator: OldDesignator= NewDesignator=C3
+Added Pin To Net: NetName=K2_2 Pin=K2-1
+Added Pin To Net: NetName=K2_1 Pin=K2-2
+Added Member To Class: ClassName=Schema_linksonder Member=Component BT1
+Added Member To Class: ClassName=Schema_linksonder Member=Component C3 1000uF/10V
+Added Member To Class: ClassName=Schema_linksonder Member=Component L2 BLM21AJ601SN1D
+Added Member To Class: ClassName=Schema_rechtsonder Member=Component MOD2- M95FA-03-STD
+Added Member To Class: ClassName=Schema_linksonder Member=Component R14 100K
