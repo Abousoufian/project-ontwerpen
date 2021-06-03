@@ -1,0 +1,1217 @@
+[ AutoCAD - Mon May 31 18:34:06 2021  ]----------------------------------------
+Loading AEC Base...
+Loading AEC Base Extended...
+Loading AEC Core...
+Loading AEC Project Base...
+Loading AEC Architectural Base...
+Loading AEC Schedule...
+
+Loading Modeler DLLs.
+
+Opening an AutoCAD 2018 format file.
+Substituting [simplex.shx] for [Freehand575 BT].
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: 
+
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 5 found
+
+Command: _u ERASE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 8 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: EXPLODE
+1 found
+
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <Through>: 5
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: *Cancel*
+
+Command:  OFFSET
+
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <5.000>: 2.5
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: _u 
+Invalid window specification.
+Specify opposite corner or [Fence/WPolygon/CPolygon]: Specify opposite corner or [Fence/WPolygon/CPolygon]: _u 
+Invalid window specification.
+Specify opposite corner or [Fence/WPolygon/CPolygon]: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: _u ERASE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: EXTEND
+
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project]: 
+
+Path does not intersect with the bounding edge.
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project/Undo]: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: LINE
+
+Specify first point: 
+Specify next point or [Undo]:  
+Resuming LINE command.
+
+Specify next point or [Undo]: 
+Specify next point or [Undo]:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]:  
+Command: EXTEND
+
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project]: 
+
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project/Undo]: 
+
+Path does not intersect with the bounding edge.
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project/Undo]:  
+Command:  EXTEND
+
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project]: line
+
+
+*Invalid selection*
+Expects a point or Fence/Boundary edges/Crossing/mOde
+
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project]: *Cancel*
+
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_10504_9b112e34.sv$ ...
+
+Command: 
+Command: LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]:  
+Command: EXTEND
+
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project]: 
+
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project/Undo]:  
+Resuming EXTEND command.
+
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project/Undo]: 
+
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: _offset 
+Current settings: Erase source=No  Layer=Source  OFFSETGAPTYPE=0
+Specify offset distance or [Through/Erase/Layer] <2.500>: 2
+
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: 
+Specify point on side to offset or [Exit/Multiple/Undo] <Exit>: 
+Select object to offset or [Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 2
+
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 2
+
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]:  
+Command:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: EXTEND
+
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project]: 
+
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project/Undo]: 
+
+Select object to extend or shift-select to trim or
+ [Boundary edges/Crossing/mOde/Project/Undo]: *Cancel*
+
+Command: TRIM
+
+Current settings: Projection=UCS, Edge=None, Mode=Quick
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+Specify next fence point or [Undo]: 
+
+Select object to trim or shift-select to extend or
+ [cuTting edges/Crossing/mOde/Project/eRase/Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: JOIN
+20 found
+
+20 objects converted to 3 polylines
+Command: LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]:  
+Command: 
+Command: *Cancel*
+
+Command: CIRCLE
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter]: 1
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command:  .ERASE
+
+Select objects: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: explode
+2 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 1.5
+
+Specify next point or [Undo]: *Cancel*
+ 
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 1.5
+
+Specify next point or [Undo]: 1
+
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: JOIN
+10 found
+
+8 objects converted to 1 polyline, 2 objects discarded from the operation
+Command:  
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression]: *Cancel*
+
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_10504_9b112e34.sv$ ...
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+3 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression]: 1
+
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+No solids, surfaces, or regions selected.
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command:  
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 12 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 7 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 4 found
+
+Command:  
+Command: _u '.3DPAN2 INTELLIZOOM 
+Command: _u ERASE 
+Command: _u INTELLIZOOM INTELLIZOOM INTELLIZOOM 
+Command: _u ERASE 
+Command: _u ERASE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 4 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: _u INTELLIZOOM 
+Command: _u ERASE 
+Command: _u ERASE 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 4 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]:  
+Command:  LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]:  
+Command:  
+Enter new value for WSCURRENT <"3D Modeling">: 
+
+Command: 
+WSCURRENT
+
+Enter new value for WSCURRENT <"Drafting & Annotation">: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command: 
+Command: 
+Command: _polygon Enter number of sides <4>: 3
+
+Specify center of polygon or [Edge]: 
+Enter an option [Inscribed in circle/Circumscribed about circle] <I>: I
+
+Specify radius of circle: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 2 found
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 11 found
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_10504_9b112e34.sv$ ...
+
+Command: 
+Command:  
+Enter new value for WSCURRENT <"Drafting & Annotation">: 
+
+Command: 
+WSCURRENT
+
+Enter new value for WSCURRENT <"3D Modeling">: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+3 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <1.000>: 1
+
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command: 
+Command: 
+Command: _qsave 
+Command:  
+Command:  
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_30933_bf65c9cb.sv$ ...
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _cylinder 
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Checking 780 intersections... 
+Specify base radius or [Diameter]: 10
+
+Specify height or [2Point/Axis endpoint] <1.000>: *Cancel*
+
+Command: 
+Command: 
+Command: _cylinder 
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter]: 5
+
+Specify height or [2Point/Axis endpoint] <1.000>: 
+
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_30933_bf65c9cb.sv$ ...
+
+Command: 
+Command: _u CYLINDER GROUP 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _cylinder 
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter] <5.000>: 5
+
+Specify height or [2Point/Axis endpoint] <1.000>: 
+Command: *Cancel*
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 30
+
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 10
+
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 40
+
+Command:  
+Command: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: COPY
+23 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>:  
+Resuming COPY command.
+
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+COPY
+23 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 10
+
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: _u COPY 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u COPY 
+Command:  
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 10
+
+Command: *Cancel*
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: COPY
+23 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>:  
+Resuming COPY command.
+
+Specify second point or [Array] <use first point as displacement>:  <Osnap off>  <Osnap on> 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_30933_bf65c9cb.sv$ ...
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]:  Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: COPY
+1 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+
+Specify displacement <0.000, 0.000, 0.000>: *Cancel*
+
+Command:  
+Command: COPY
+
+Select objects: Specify opposite corner: 1 found
+
+Select objects: 
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>:  
+Resuming COPY command.
+
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: COPY
+5 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>:  
+Resuming COPY command.
+
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u QUICKPROPERTIES GROUP 
+Command: _u INTELLIZOOM INTELLIZOOM INTELLIZOOM 
+Command: _u COPY 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: Specify opposite corner: 3 found
+
+Select objects to extrude or [MOde]: Specify opposite corner: 3 found (1 duplicate), 5 total
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <-22.426>: 2
+
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 1 found, 4 total
+
+Select objects: 
+
+
+Command: _u INTELLIZOOM 
+Command: _u SUBTRACT GROUP 
+Command:  
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_30933_bf65c9cb.sv$ ...
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command: _u 
+Command: _u INTELLIZOOM INTELLIZOOM INTELLIZOOM '.3DPAN2 INTELLIZOOM '.3DPAN2 '.3DPAN2 INTELLIZOOM INTELLIZOOM '.3DPAN2 
+Command: _u EXTRUDE GROUP 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: COPY
+5 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+5 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <2.000>: 2
+
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _qsave 
+Command: 
+Command: 
+Command: _qsave 
+Command: *Cancel*
+
+Command:  
+Command:  
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_18895_0648cdfb.sv$ ...
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: COPY
+5 found
+
+Current settings:  Copy mode = Multiple
+Specify base point or [Displacement/mOde] <Displacement>: 
+Specify second point or [Array] <use first point as displacement>:  
+Resuming COPY command.
+
+Specify second point or [Array] <use first point as displacement>:  
+Resuming COPY command.
+
+Specify second point or [Array] <use first point as displacement>: 
+Specify second point or [Array/Exit/Undo] <Exit>: *Cancel*
+
+Command:  
+Command: 3DO
+3DORBIT Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: @20,20
+
+Specify height or [2Point] <2.000>: *Cancel*
+
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: @20,50
+
+Specify height or [2Point] <2.000>: *Cancel*
+
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_18895_0648cdfb.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: @20,40
+
+Specify height or [2Point] <2.000>: 25
+
+Command: 
+Command: 
+Command: _move 
+Select objects: 1 found
+
+Select objects: 
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 15
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command:  
+Command: 
+Command: 
+Command: _qsave 
+Command:  
+Command:  
+Command: 3DO
+3DORBIT Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: 
+Command: 
+Command: _cylinder 
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter] <5.000>: 5
+
+Specify height or [2Point/Axis endpoint] <25.000>:  
+Resuming CYLINDER command.
+
+Specify height or [2Point/Axis endpoint] <25.000>:  
+Resuming CYLINDER command.
+
+Specify height or [2Point/Axis endpoint] <25.000>: 50
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 88
+
+Command:  
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 15
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command: 3DO
+3DORBIT Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: _u 3DORBIT 
+Command: _u INTELLIZOOM 
+Command: _u SUBTRACT GROUP 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u '.ACGZDRAGACTION 
+Command: _u 
+Command: _u '.3DPAN2 
+Command: _u '.ACGZDRAGACTION 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _cylinder 
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter] <5.000>: 5
+
+Specify height or [2Point/Axis endpoint] <50.000>:  
+Resuming CYLINDER command.
+
+Specify height or [2Point/Axis endpoint] <50.000>: 50
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 88
+
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 15
+
+Command: 3DO
+3DORBIT Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: *Cancel*
+
+Command: 3DO
+3DORBIT Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: _u 3DORBIT 
+Command: _u 3DORBIT 
+Command: _u '.ACGZDRAGACTION 
+Command: *Cancel*
+
+Command:  
+Command: 3DO
+3DORBIT Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: 
+Command:  
+ 
+** MOVE **
+Specify move point or [Base point/Copy/Undo/eXit]: 15
+
+Command: 3DO
+3DORBIT Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: *Cancel*
+
+Command: 3DO
+3DORBIT Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: 
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_31662_cdfb6da4.sv$ ...
+
+Command: 
+Crossing Lasso  Press Spacebar to cycle options
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command:  
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _qsave 
+Command: 
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+1 found
+_MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Cannot sweep or extrude an object of this type.
+1 object removed from selection set.
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: *Cancel*
+*Cancel*
+
+Command: _extrude 
+Current wire frame density:  ISOLINES=20, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: Specify opposite corner: *Cancel*
+0 found
+Select objects to extrude or [MOde]: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Window Lasso  Press Spacebar to cycle options
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_1497_61177628.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command:  
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command:  
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _qsave 
+Window Lasso  Press Spacebar to cycle options
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Window Lasso  Press Spacebar to cycle options
+Crossing Lasso  Press Spacebar to cycle options
+Window Lasso  Press Spacebar to cycle options
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _EXPORT 
+Command: 
+Command: 
+Command: _EXPORT 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _EXPORT 1 found
+
+
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_7541_01bcc3ac.sv$ ...
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Crossing Lasso  Press Spacebar to cycle options
+Command: *Cancel*
+
+Crossing Lasso  Press Spacebar to cycle options
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _move 23 found
+
+Specify base point or [Displacement] <Displacement>: 
+Specify second point or <use first point as displacement>: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _EXPORT 24 found
+2 were filtered out
+
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_7541_01bcc3ac.sv$ ...
+
+Command: 
+Window Lasso  Press Spacebar to cycle options
+Command: 
+Command: 
+Command: _qsave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

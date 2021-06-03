@@ -1,0 +1,198 @@
+[ AutoCAD - Tue Jun 01 10:45:17 2021  ]----------------------------------------
+Loading AEC Base...
+Loading AEC Base Extended...
+Loading AEC Core...
+Loading AEC Project Base...
+Loading AEC Architectural Base...
+Loading AEC Schedule...
+
+Loading Modeler DLLs.
+
+Opening an AutoCAD 2018 format file.
+Substituting [simplex.shx] for [Freehand575 BT].
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: 
+
+Window Lasso  Press Spacebar to cycle options
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _cylinder 
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter]: 1.75
+
+Specify height or [2Point/Axis endpoint]: 25
+
+Command: *Cancel*
+
+Command:  
+Command:  CYLINDER
+
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter] <1.750>: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _cylinder 
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter] <1.750>: 1.75
+
+Specify height or [2Point/Axis endpoint] <-25.000>: 25
+
+Automatic save to C:\Users\11903685\AppData\Local\Temp\logo_1_25360_ce114227.sv$ ...
+
+Command: 
+Command:  CYLINDER
+
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter] <1.750>: 1.75
+
+Specify height or [2Point/Axis endpoint] <-25.000>: 25
+
+Command:  
+Command:  CYLINDER
+
+Specify center point of base or [3P/2P/Ttr/Elliptical]: *Cancel*
+
+Command: 
+Command: _cylinder 
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter] <1.750>: 1.75
+
+Specify height or [2Point/Axis endpoint] <-25.000>: 25
+
+Command:  
+Command:  CYLINDER
+
+Specify center point of base or [3P/2P/Ttr/Elliptical]: *Cancel*
+
+Command: 
+Command: _cylinder 
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter] <1.750>: 1.75
+
+Specify height or [2Point/Axis endpoint] <-25.000>: 15
+
+Command:  
+Command:  CYLINDER
+
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter] <1.750>: 1.75
+
+Specify height or [2Point/Axis endpoint] <-15.000>: 15
+
+Command:  CYLINDER
+
+Specify center point of base or [3P/2P/Ttr/Elliptical]: *Cancel*
+
+Command:  
+Command:  
+Command:  
+Command:  CYLINDER
+
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter] <1.750>: 1.75
+
+Specify height or [2Point/Axis endpoint] <-15.000>: 15
+
+Command:  
+Command:  CYLINDER
+
+Specify center point of base or [3P/2P/Ttr/Elliptical]: 
+Specify base radius or [Diameter] <1.750>: 1.75
+
+Specify height or [2Point/Axis endpoint] <-15.000>: 15
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 1 found, 4 total
+
+Select objects: 1 found, 5 total
+
+Select objects: 1 found, 6 total
+
+Select objects:  
+Resuming SUBTRACT command.
+
+Select objects:  
+Resuming SUBTRACT command.
+
+Select objects:  
+Resuming SUBTRACT command.
+
+Select objects: 1 found, 7 total
+
+Select objects: 
+
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _subtract Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _qsave 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: 
+Command: _EXPORT 1 found
+
+
+Command: 
+Command: 
+Command: _qsave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 
